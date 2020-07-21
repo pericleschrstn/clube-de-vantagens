@@ -189,6 +189,12 @@ hr {
 
 .logo-blank {padding: 200px 0 50px 0}
 
+.slide-jorlan {
+	background: url(../img/slide-jorlan.jpg) no-repeat center center;
+	background-size: cover;
+	height: 741px;
+}
+
 .slide-bradesco {
 	background: url(../img/intro-bg.jpg) no-repeat right bottom;
 }
